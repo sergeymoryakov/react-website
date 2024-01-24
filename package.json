@@ -1,6 +1,6 @@
 {
-    "homepage": "https://sergeymoryakov.github.io/template-vite-react",
-    "name": "template-vite-react",
+    "homepage": "https://sergeymoryakov.github.io/react-website",
+    "name": "react-website",
     "private": true,
     "version": "0.0.0",
     "type": "module",
